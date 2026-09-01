@@ -1,0 +1,31 @@
+{
+  "clock": "unix-nanoseconds",
+  "files": {
+    "Packages/NsCDE-2.4-0.1.20260705gitcbad197.el10.x86_64.rpm": {
+      "mtime_ns": 1788242585563388931,
+      "sha256": "1588d50720bbe3809b67e755ce3a295ac12e4f3236198c89c0b8bef05cb533d3",
+      "size": 45395
+    },
+    "Packages/NsCDE-data-2.4-0.1.20260705gitcbad197.el10.noarch.rpm": {
+      "mtime_ns": 1788242585432132711,
+      "sha256": "a53be6b53ef98885bc3e65f71d0ea325dad955b39b628243adfa15d9a9938b2e",
+      "size": 19259729
+    },
+    "Packages/NsCDE-doc-2.4-0.1.20260705gitcbad197.el10.noarch.rpm": {
+      "mtime_ns": 1788242585975392310,
+      "sha256": "3ff71345610c3fe616a72382a1a50e51f78d63892c37c98713bccbeeb832af77",
+      "size": 3750092
+    },
+    "Packages/NsCDE-icon-theme-2.4-0.1.20260705gitcbad197.el10.noarch.rpm": {
+      "mtime_ns": 1788242585705390096,
+      "sha256": "7765b74e410679d5b8a2c58637e624c167d320754e4adccb17b8bce283c25047",
+      "size": 3978989
+    },
+    "Packages/NsCDE-langpack-hr-2.4-0.1.20260705gitcbad197.el10.noarch.rpm": {
+      "mtime_ns": 1788242585835391162,
+      "sha256": "2f71ef1a2ed984b342d85844fe541166506fe04d386ead01776c506ff33bb334",
+      "size": 52969
+    }
+  },
+  "schema": 1
+}
